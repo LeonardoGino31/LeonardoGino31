@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hola, soy Gino Quinde
+
 
 <!--
-**LeonardoGino31/LeonardoGino31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Este es mi sitio personal. Aquí encontrarás información sobre mí, mis proyectos y mis intereses.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🙋‍♂️ Sobre mí
+- 🎓 Estudiante de: Escuela Superior Politécnica del Litoral/ Computación
+- 💻 Interesado en áreas: IoT, Inteligencia artificial, Algoritmos, Sistemas Embebidos, Desarrolllo web
+- 🌱 Actualmente aprendiendo: IoT/Inteligencia artificial
+
+
+## 🛠️ Tecnologías y Herramientas
+- Lenguajes: Python, Java, C, SQL  
+- Frameworks: React, Node.js  
+- Herramientas: Git, Docker, VS Code  
+
+## 📫 Contáctame
+- 📧 Correo: glquinde@espol.edu.ec  
+
+
 -->
