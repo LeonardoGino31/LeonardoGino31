@@ -1,7 +1,7 @@
 # 👋 Hola, soy Gino Quinde
 
 
-<!--
+
 Este es mi sitio personal. Aquí encontrarás información sobre mí, mis proyectos y mis intereses.
 
 
@@ -19,5 +19,3 @@ Este es mi sitio personal. Aquí encontrarás información sobre mí, mis proyec
 ## 📫 Contáctame
 - 📧 Correo: glquinde@espol.edu.ec  
 
-
--->
